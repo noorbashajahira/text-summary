@@ -1,0 +1,6 @@
+requiremnts
+
+os	
+pathlib	
+python-dotenv	
+mistralai
